@@ -49,7 +49,7 @@ header {
 
 .landing_top {
 	height: 800px;
-	background-image: url("/Users/brentryan/Documents/GA Web Design Course 2016/UNIT 3 - Principle of HTML & CSS/images/landing_image_left.jpg");
+	background-image: url("/images/landing_image_left.jpg");
 	background-size: 2400px 1900px;
 	background-repeat: no-repeat;
 	text-align: center;
