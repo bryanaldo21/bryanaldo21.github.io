@@ -1,0 +1,173 @@
+
+
+body {
+	padding: 0;
+	margin:0
+
+}
+header {
+	height: 90px;
+	width: 100%;
+	background-color: black;
+	border-bottom: yellow;
+	border-bottom-style: solid;
+}
+
+#header_logo {
+	float: left;
+	padding: 30px;
+}
+
+#header_nav_menu {
+	font-family: "Open Sans", sans-serif;
+	font-weight: 300;
+	list-style-type: none;
+	text-align: right;
+	padding:30px;
+	margin: 0px;
+}
+
+#header_nav_menu li {
+	display: inline-block;
+	padding-top: 5px
+}
+
+#header_nav_menu a {
+	text-decoration: none;
+	color: white;
+	padding: 5px;
+	margin: 5px;
+	border:1px;
+	border-color: white;
+	border-style: solid;
+}
+
+#header_nav_menu a:hover{
+	font-weight:500;
+	color: yellow;
+}
+
+.landing_top {
+	height: 800px;
+	background-image: url("/Users/brentryan/Documents/GA Web Design Course 2016/UNIT 3 - Principle of HTML & CSS/images/landing_image_left.jpg");
+	background-size: 2400px 1900px;
+	background-repeat: no-repeat;
+	text-align: center;
+
+}
+
+#slogan {
+	margin:0;
+	padding-top: 300px;
+	text-align: center;
+	font-family: "Montserrat", sans-serif;
+	color: white;
+	font-weight: 700;
+	font-size: 70px
+
+}
+
+#landing_top_para {
+	font-family: "Open Sans", sans-serif;
+	font-weight: 600;
+	font-size: 30px;
+	color: white;
+	text-align: center;
+}
+
+.cta_button {
+
+	margin: 5px;
+	padding: 5px;
+	border-color: white;
+	border-style: solid;
+	border-width:1px;
+	text-decoration: none;
+	color: yellow;
+	font-family: "Open Sans", sans-serif;
+	font-weight: 300;
+	font-size: 20px;
+
+}
+	
+.cta_button:hover {
+	font-weight:500;
+	color: yellow;
+	border-color: black;
+	background-color: black;
+
+}
+
+.top_story_bar {
+	background-color:#F2F2FF;
+	padding:1px;
+	text-decoration:underline;
+	overflow: hidden;
+
+}
+	
+#top_story_header{
+	font-family: "Montserrat", sans-serif;
+	font-size: 400;
+	text-align: center;
+	color: black;
+	padding: 50px;
+
+}
+
+.top_story_1{
+	float: left;
+	margin-right:142px;
+	margin-bottom: 90px;
+	margin-left:126px;
+	margin-bottom: 90px;
+	height: 550px;
+	width:360px;
+	border-color: #DEE5E4;
+	border-style: solid;
+	border-width:5px;
+	color:black;
+	background-color: white;
+
+}
+
+.top_story_1 h3{
+	font-family: "Open Sans", sans-serif;
+	font-weight: 600;
+	text-align: center;
+	text-transform: uppercase;
+	padding-top:10px;
+}
+
+
+.top_story_img {
+	padding-top:10px;
+	padding-left: 105px;
+	height:150px;
+	width: 150px;
+}
+
+.top_story_1 p {
+	font-family: "Open Sans", sans-serif;
+	font-size: 100;
+	font-weight: 300;
+	padding: 20px;
+
+
+	
+}
+footer {
+	font-family: "Open Sans", sans-serif;
+	font-weight: 300;
+	text-align: center;
+	padding: 20px;
+	background-color: yellow;
+	border-top: black;
+	border-top-style: solid;
+
+}
+
+
+
+
+
