@@ -49,8 +49,8 @@ header {
 
 .landing_top {
 	height: 800px;
-	background-image: url("/images/landing_image_left.jpg");
-	background-size: 2400px 1900px;
+	background-image: url("images/landing.png");
+	background-size: 2000px 1000px;
 	background-repeat: no-repeat;
 	text-align: center;
 
