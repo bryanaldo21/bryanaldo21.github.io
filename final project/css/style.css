@@ -424,7 +424,7 @@ text-align: center;
 
 
 header nav {
-    margin: 0em 0em 0em 0em;
+    margin: 0;
     float:none;
     display:none;
     width:100%;
@@ -512,4 +512,15 @@ body {
     line-height: 2.5em;
 }
 }
+
+@media only screen and (max-width:323px) {
+
+label {
+  float:none;
+  margin: 0 auto;
+
+}
+
+
+    }
 
